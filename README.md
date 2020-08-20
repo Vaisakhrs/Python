@@ -1,2 +1,2 @@
-# Python
-My first python program
+# Git demo
+Learning git
